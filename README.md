@@ -1,5 +1,5 @@
 # Digital-E-Card
 
 here's the Screenshot the above Code:
-<img src="[Screenshot_10-12-2024_165116_](https://github.com/user-attachments/assets/e86c4b0b-0807-4d80-b92f-b32289e5b18b)
-" alt="">
+
+![Screenshot_10-12-2024_165116_](https://github.com/user-attachments/assets/7107f593-2f66-4b6a-9618-db0e3c7a1a7b)
