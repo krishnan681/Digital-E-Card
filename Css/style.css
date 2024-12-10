@@ -1,0 +1,471 @@
+
+.sec1{
+ width: 100%;
+ max-height: 100vh;
+     background-image: url(./Contour\ Line-svg.svg);
+     border: none;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+         /* padding-top: 200px; */
+     }
+     /* .sec-pb-200 {
+         padding-bottom: 200px;
+     } */
+     .page1 {
+         transform: translateY(28vh);
+         height: 50vh;
+         background-color: #6a0dad;
+     }
+
+
+
+.sec1 .container{
+  /* background-color: aqua; */
+  transform: translateY(-30vh);
+}
+
+.col-md-7{
+  position: relative;
+  top: 21vh;
+  height: 50vh;
+  /* background-color: aliceblue; */
+}
+.phone{
+  transform: translateY(-8vh);
+}
+
+
+@media only screen and (max-width: 1400px) {
+  .phone img{
+    transform: translateY(4vh);
+    /* background-color: #00ff00; */
+    width: 70%;
+    /* height: 100%; */
+  }
+}
+@media only screen and (max-width: 1025px) {
+  .phone img{
+    transform: translateY(8vh);
+    /* background-color: #00ff00; */
+    width: 80%;
+    /* height: 100%; */
+  }
+}
+
+
+@media only screen and (max-width: 992px) {
+  .phone img{
+    width: 90%;
+    transform: translateY(18vh);
+    /* background-color: #00ff00; */
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  .phone img{
+    width: 60%;
+    /* background-color: #00ff00; */
+  }
+}
+
+
+
+
+
+     .text-white {
+         color: white !important;
+     }
+     .btn-20 {
+         /* background-color: black; */
+         color: white;
+         border: none;
+         padding: 10px 20px;
+         border-radius: 20px;
+         cursor: pointer;
+         font-size: 16px;
+         margin: 5px;
+     }
+     .respo-btn a {
+         margin-right: 10px;
+     }
+     .img-fluid {
+         max-width: 100%;
+         height: auto;
+     }
+     @media (max-width: 767.98px) {
+         .phone {
+             display: none;
+         }
+     }
+
+
+/* .col-md-5 .img-fluid{
+      background-color: aqua;
+     } */
+
+/* 320 kula irrukaradhu vela nadakum 320 ku mela pochuna work agadhu */
+     @media only screen and (max-width: 320px) {
+      .d-flex{
+        display: flex;
+        justify-content: flex-start;
+        align-items: start;
+        /* background-color: aliceblue; */
+
+      }
+
+
+      .sec1 {
+        background-color: aqua;
+        height:60vh ;
+        background-size:50vh;
+      }
+      .sec1 .page1{
+        transform: translateY(0vh);
+        height: 60vh;
+      }
+
+      .overflow-intro .col-md-7{
+        transform: translateY(-45vh);
+      }
+
+    }   
+    
+    
+    @media only screen and (max-width: 480px) {
+      .page1{
+        transform: translateY(10vh);
+        height: 89vh;
+      }
+
+      .col-md-7{
+        transform: translateY(-45vh);
+      }
+
+      .d-flex{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        /* background-color: aliceblue; */
+
+      }
+    }
+
+
+    @media only screen and (max-width: 576px) {
+      .page1{
+        transform: translateY(20vh);
+        height: 60vh;
+      }
+      .col-md-7{
+        transform: translateY(-27vh);
+      }
+
+    }
+
+
+    
+
+
+    @media (min-width: 768px) {
+      .col-md-7 {
+        transform: translateY(-10vh);
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sec2{
+  /* background-color: #8433c2; */
+  background-color: rgb(248, 244, 252);
+  width: 100%;
+  min-height: 50vh;
+}
+
+.head-title{
+  position: relative;
+  display: grid;
+  justify-content: center;
+  justify-items: stretch;
+  align-content: space-between;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  
+  padding-bottom: 5px;
+  padding-left: 20px;
+}
+
+
+.contact{
+  transform: translateY(35vh);
+  /* padding: 20px; */
+  text-align: left;
+  margin: 10px auto;
+}
+
+.contact p{
+  margin: 10px 0;
+  font-size: 1.1rem;
+  padding-left: 0px;
+}
+
+.info{
+  transform: translateY(35vh);
+  margin: 30px 0;
+}
+
+.info h5, p{
+  font-size: large;
+} 
+
+
+@media (max-width: 575.98px) { 
+.row-cols-1>* {
+  display: grid;
+  row-gap: 20px;
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+ }
+
+
+.info .btn{
+  display: inline;
+  /* justify-content: center; */
+  /* align-items: center; */
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+  border: none;
+  background-color: #6a0dad;
+}
+
+
+.info .btn h5{
+  font-size: 17px;
+}
+
+.about{
+  transform: translateY(35vh);
+  margin-top: 30px;
+}
+
+.about p{
+  font-size: 1.1em;
+  padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sec3{
+  min-height: 100vh;
+  width: 100%;
+  /* background-color: #6a0dad; */
+}
+
+
+.box {
+  border-radius: 10px;
+  margin: 5px;
+  transform: translateY(50vh);
+}
+.box1 { background-color: #ff4d4d; }
+.box2 { background-color: #00ffcc; }
+.box3 { background-color: #8000ff; }
+.box4 { background-color: #ff9933; }
+.box5 { background-color: #ff66b2; }
+.box6 { background-color: #ff4d4d; }
+.box7 { background-color: #0000ff; }
+.box8 { background-color: #00ffcc; }
+.box9 { background-color: #ff9933; }
+.box10 { background-color: #00ff00; }
+.box11 { background-color: #00ff00; }
+
+.box1,
+.box2,
+.box3,
+.box4,
+.box5,
+.box6,
+.box7,
+.box8,
+.box9,
+.box10,
+.box11,
+.box11 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+
+.box1,
+.box2,
+.box3,
+.box4,
+.box5,
+.box6,
+.box7,
+.box8,
+.box9,
+.box10,
+.box11,
+.box11 h4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+  
+  background-color: #e0ebe8;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.footer .footer-bottom {
+  margin-top: 30px;
+  color: #666;
+}
+.footer .footer-bottom a {
+  color: #007bff;
+  text-decoration: none;
+}
+.footer .footer-bottom a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+@media only screen and (max-width: 320px) {
+
+  
+.footer {
+  transform: translateY(20vh);
+}
+}
+
+
+@media only screen and (max-width: 480px) {
+  .footer{
+    transform: translateY(20vh);
+  }
+}
+
+
+@media only screen and (max-width: 576px) {
+ .footer{
+  transform: translateY(20vh);
+ }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .footer{
+    transform: translateY(20vh);
+  }
+}
